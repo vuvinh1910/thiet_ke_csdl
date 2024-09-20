@@ -1,5 +1,5 @@
 quan hệ 1-1:
-thường là chỉ có 1 bảng hoặc.
+thường là chỉ có 1 bảng chứa primary key - unique key (1-1) hoặc.
 cả 2 bảng tham chiếu khóa chính lẫn nhau.
 
 quan hệ 1-nhiều:
