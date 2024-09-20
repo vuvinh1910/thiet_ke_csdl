@@ -1,4 +1,5 @@
 quan hệ 1-1:
+thường là chỉ có 1 bảng hoặc.
 cả 2 bảng tham chiếu khóa chính lẫn nhau.
 
 quan hệ 1-nhiều:
