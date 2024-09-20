@@ -1,0 +1,8 @@
+quan hệ 1-1:
+cả 2 bảng tham chiếu khóa chính lẫn nhau.
+
+quan hệ 1-nhiều:
+bảng bên nhiều tham chiếu khóa chính của bảng bên 1.
+
+quan hệ nhiều-nhiều:
+có thêm 1 bảng trung gian tham chiếu khóa chính của cả 2 bảng còn lại.
