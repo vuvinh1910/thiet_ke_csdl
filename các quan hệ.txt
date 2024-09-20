@@ -7,3 +7,4 @@ bảng bên nhiều tham chiếu khóa chính của bảng bên 1.
 
 quan hệ nhiều-nhiều:
 có thêm 1 bảng trung gian tham chiếu khóa chính của cả 2 bảng còn lại.
+thật ra là kết hợp: nhiều-1 1-nhiều.
