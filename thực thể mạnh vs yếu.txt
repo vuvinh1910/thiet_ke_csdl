@@ -1,0 +1,2 @@
+thực thể mạnh có các thuộc tính ko phụ thuộc vào thực thể khác.
+thực thể yếu thì phụ thuộc: vd như thực thể có khóa phụ tham chiếu đến thực thể khác.
